@@ -138,7 +138,7 @@ class MyFooter extends HTMLElement{
       
     <hr class="my-4 h-2 w-full bg-accent" />
     <div>
-      <p class='text-center m-6 text-white'>© 2024 Pradhan Eye Hospital. All Rights Reserved. | <a href='https://evolve-web-solapur.vercel.app/' class="hover:underline text-sky-300 font-secondary tracking-[0.5px]">Design By Evolve Web Solapur</a></p>
+      <p class='text-center m-4 text-white'>© 2024 Pradhan Eye Hospital. All Rights Reserved. | <a href='https://evolve-web-solapur.vercel.app/' class="hover:underline text-sky-300 font-secondary">Design By Evolve Web Solapur</a></p>
     </div>
 
   </footer>
